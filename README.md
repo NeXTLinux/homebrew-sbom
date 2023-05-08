@@ -1,4 +1,4 @@
-# Homebrew Formula for SBOM
+# Homebrew Formula for GoSBOM
 
 This repo contains the [Homebrew](https://brew.sh/) formula for
 [GoSBOM](https://github.com/nextlinux/gosbom)
